@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# Submitted by:- Vivek Kumar, 9818076031
+# Submitted by:- Vivek Kumar
 
 import numpy as np #  Used for scientific computing in Python
 import pandas as pd # USed for DataFrames and Series 
